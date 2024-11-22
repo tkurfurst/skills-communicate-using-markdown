@@ -16,3 +16,8 @@ Third line of text prior to committing, after adding three header examples and t
 for i in range(10):
   print(i)
 ```
+# Adding a task list
+
+- [x] Complete Codeacademy Git and Github
+- [ ] Do Github courses
+- [ ] Complete README.md file and create a GitHub page
