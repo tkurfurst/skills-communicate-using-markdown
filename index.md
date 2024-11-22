@@ -9,3 +9,10 @@ Third line of text prior to committing, after adding three header examples and t
 # Adding and Image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Adding a code example
+
+``` python
+for i in range(10):
+  print(i)
+```
